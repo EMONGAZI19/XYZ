@@ -13,6 +13,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BANGLADESH", EKUSHEY TV HD
 https://ekusheyserver.com/etvlivesn.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9TSXgKw/b24c-1.jpg" group-title="BANGLADESH", B24C
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@NTVDigitalLive
 
