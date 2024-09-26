@@ -1,0 +1,57 @@
+#EXTM3U
+
+#API FROM https://t.me/@afranemon
+
+#EXTINF:-1 group-title="RMT LIVE " tvg-chno="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/emon-g999/RMT-LIVE-TV-/3ebac9348a6a86ae043458ecabf99b5989a2e404/2459853_ico%20(1).png", RMT LIVE TV
+https://github.com/emon-g999/RMT-LIVE-TV-/raw/f2cb89ba303e093d65ba89ecf375ca9c18bac701/lv_0_20240905033916.mp4
+
+#EXTINF:-1  tvg-name="SUPER SPORTS CRICKET HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5009.jpg" group-title="SPORTS",SUPER SPORTS CRICKET HD
+http://150.242.202.110:824/jiobe/live/5009.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS FOOTBALL HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5010.jpg" group-title="SPORTS",SUPER SPORTS FOOTBALL HD
+http://150.242.202.110:824/jiobe/live/5010.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS FOOTBALL PLUS HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5011.jpg" group-title="SPORTS",SUPER SPORTS FOOTBALL PLUS HD
+http://150.242.202.110:824/jiobe/live/5011.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS GOLF HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5012.jpg" group-title="SPORTS",SUPER SPORTS GOLF HD
+http://150.242.202.110:824/jiobe/live/5012.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS GRANDSTAND HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5013.jpg" group-title="SPORTS",SUPER SPORTS GRANDSTAND HD
+http://150.242.202.110:824/jiobe/live/5013.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS LA LIGA HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5014.jpg" group-title="SPORTS",SUPER SPORTS LA LIGA HD
+http://150.242.202.110:824/jiobe/live/5014.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS MAXIMO CHAMPIONSHIP HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5015.jpg" group-title="SPORTS",SUPER SPORTS MAXIMO CHAMPIONSHIP HD
+http://150.242.202.110:824/jiobe/live/5015.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS MOTORSPORT HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5016.jpg" group-title="SPORTS",SUPER SPORTS MOTORSPORT HD
+http://150.242.202.110:824/jiobe/live/5016.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS PREMIER LEAGUE HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5017.jpg" group-title="SPORTS",SUPER SPORTS PREMIER LEAGUE HD
+http://150.242.202.110:824/jiobe/live/5017.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS TENNIS HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5018.jpg" group-title="SPORTS",SUPER SPORTS TENNIS HD
+http://150.242.202.110:824/jiobe/live/5018.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS VARIETY 1 HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5019.jpg" group-title="SPORTS",SUPER SPORTS VARIETY 1 HD
+http://150.242.202.110:824/jiobe/live/5019.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS VARIETY 2 HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/5020.jpg" group-title="SPORTS",SUPER SPORTS VARIETY 2 HD
+http://150.242.202.110:824/jiobe/live/5020.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS VARIETY 3 HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/933.jpg" group-title="SPORTS",SUPER SPORTS VARIETY 3 HD
+http://150.242.202.110:824/jiobe/live/933.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS VARIETY 4 HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/918.jpg" group-title="SPORTS",SUPER SPORTS VARIETY 4 HD
+http://150.242.202.110:824/jiobe/live/918.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS BLITZ HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/47833.jpg" group-title="SPORTS",SUPER SPORTS BLITZ HD
+http://150.242.202.110:824/jiobe/live/47833.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS PLAY HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/47840.jpg" group-title="SPORTS",SUPER SPORTS PLAY HD
+http://150.242.202.110:824/jiobe/live/47840.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS PSL HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/47847.jpg" group-title="SPORTS",SUPER SPORTS PSL HD
+http://150.242.202.110:824/jiobe/live/47847.ts
+#EXTINF:-1  tvg-name="SUPER SPORTS RUGBY HD" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/47854.jpg" group-title="SPORTS",SUPER SPORTS RUGBY HD
+http://150.242.202.110:824/jiobe/live/47854.ts
+#EXTINF:-1  tvg-name="HUB SPORTS 1 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/47811.jpg" group-title="SPORTS",HUB SPORTS 1 4K
+http://150.242.202.110:824/jiobe/live/47811.ts
+#EXTINF:-1  tvg-name="HUB SPORTS 2 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/47818.jpg" group-title="SPORTS",HUB SPORTS 2 4K
+http://150.242.202.110:824/jiobe/live/47818.ts
+#EXTINF:-1  tvg-name="HUB SPORTS 3 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/47825.jpg" group-title="SPORTS",HUB SPORTS 3 4K
+http://150.242.202.110:824/jiobe/live/47825.ts
+#EXTINF:-1  tvg-name="ASTRO SUPERSPORTS 1 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/7883.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 1 4K
+http://150.242.202.110:824/jiobe/live/7883.ts
+#EXTINF:-1  tvg-name="ASTRO SUPERSPORTS 2 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/7884.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 2 4K
+http://150.242.202.110:824/jiobe/live/7884.ts
+#EXTINF:-1  tvg-name="ASTRO SUPERSPORTS 3 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/7885.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 3 4K
+http://150.242.202.110:824/jiobe/live/7885.ts
+#EXTINF:-1  tvg-name="ASTRO SUPERSPORTS 4 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/7886.jpg" group-title="SPORTS",ASTRO SUPERSPORTS 4 4K
+http://150.242.202.110:824/jiobe/live/7886.ts
