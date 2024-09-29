@@ -1,0 +1,121 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+{ # This playlists presented by @rmtlivetv } { # Hosting from afran emon }
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RvvYLvf/20240926-210221.png" group-title="SPORTS CHANNEL ",GAZI TV 
+https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=GTV 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tXNr6c8/20240928-230353.png" group-title="SPORTS CHANNEL ",STAR SPORTS 1 HINDI 
+https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1Hindi.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MPkJDc5/20240917-204048.png" group-title="SPORTS CHANNEL ",STAR SPORTS 1 HD 
+http://103.84.57.155:8000/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pvB1NdW/20240926-014700.png" group-title="SPORTS CHANNEL ",STAR SPORTS SELECT 1 HD 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6dQ9LW/20240926-014559.png" group-title="SPORTS CHANNEL ",STAR SPORTS SELECT 2 HD 
+http://103.84.57.155:8000/play/a09z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SPORTS CHANNEL ", SONY SPORTS 1 HD 
+https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=SonyTen1
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="SPORTS CHANNEL ",SONY SPORTS 2 HD 
+https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=SonyTen2
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="SPORTS CHANNEL ",SONY SPORTS 3 HD
+https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=SonyTen3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTxpmwx/20240928-144350.png" group-title="SPORTS CHANNEL ",SPORTS HD 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pxtmbfq/20240928-145543.png" group-title="SPORTS CHANNEL ",WILLOW 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8xtPZd1/20240928-145854.png" group-title="SPORTS CHANNEL ",WILLOW XTRA 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5BrC89V/20240928-144954.png" group-title="SPORTS CHANNEL ",TEN SPORTS HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Qr1GCLg/20240926-015539.png" group-title="SPORTS CHANNEL ",A SPORTS HD 
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL ",PTV SPORTS 
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DwYb6By/20240928-144126.png" group-title="SPORTS CHANNEL ",LALIGA
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G0ZGBQY/20240928-193537.png" group-title="SPORTS CHANNEL ",SKY SPORTS CRICKET 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tqkMRr5/20240928-193608.png" group-title="SPORTS CHANNEL ",SKY SPORTS FOOTBALL 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z6WJZtg/20240928-194156.png" group-title="SPORTS CHANNEL ",SKY SPORTS PREMIER LEAGUE 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PcD7qP0/20240928-193637.png" group-title="SPORTS CHANNEL ",SKY SPORTS MAIN EVENT 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4d3q3Kx/20240928-143501.png" group-title="SPORTS CHANNEL ",EUROSPORT 1
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jkRqnXj/20240928-143657.png" group-title="SPORTS CHANNEL ",EUROSPORT 2 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DM9QXgk/20240928-154232.png" group-title="SPORTS CHANNEL ",SUPER SPORTS FOOTBALL 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Gv8B3Rt/20240928-230148.png" group-title="SPORTS CHANNEL ",SUPER SPORTS PREMIER LEAGUE 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W3kxYn4/20240928-230127.png" group-title="SPORTS CHANNEL ",SUPER SPORTS LA LIGA 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BrrxD6t/20240928-230235.png" group-title="SPORTS CHANNEL ",FOX SPORTS 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BTyfCkc/20240928-153425.png" group-title="SPORTS CHANNEL ",TNT SPORTS 1
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19051/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hZq6DgG/20240928-153506.png" group-title="SPORTS CHANNEL ",TNT SPORTS 2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j4vdSXT/20240928-153535.png" group-title="SPORTS CHANNEL ",TNT SPORTS 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
