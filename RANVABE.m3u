@@ -87,8 +87,11 @@ http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19051/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j4vdSXT/20240928-153535.png" group-title="SPORTS CHANNEL ",TNT SPORTS 3
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqB6P6R/download-3.png" group-title="SPORTS CHANNEL ", DUBAI SPORTS 
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/888xZ51/download-10.png" group-title="SPORTS CHANNEL ", MU TV
+https://https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
 
 
