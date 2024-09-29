@@ -25,7 +25,7 @@ https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=SonyTen1
 https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=SonyTen2
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="SPORTS CHANNEL ",SONY SPORTS 3 HD
-https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=SonyTen3
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTxpmwx/20240928-144350.png" group-title="SPORTS CHANNEL ",SPORTS HD 
 
@@ -93,11 +93,11 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/888xZ51/download-10.png" group-title="SPORTS CHANNEL ", MU TV
 https://https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL ",BEIN SPORTS 1
+http://103.191.241.10/bein1/index.fmp4.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL ",BEIN SPORTS 2
+http://103.191.241.10/bein2/index.fmp4.m3u8
 
 
 
