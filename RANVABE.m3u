@@ -4,7 +4,7 @@
 { # This playlists presented by @rmtlivetv } { # Hosting from afran emon }
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RvvYLvf/20240926-210221.png" group-title="SPORTS CHANNEL ",GAZI TV 
-https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=GTV 
+https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=GTV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tXNr6c8/20240928-230353.png" group-title="SPORTS CHANNEL ",STAR SPORTS 1 HINDI 
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1Hindi.m3u8 
@@ -12,20 +12,32 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1Hindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MPkJDc5/20240917-204048.png" group-title="SPORTS CHANNEL ",STAR SPORTS 1 HD 
 http://103.84.57.155:8000/play/a025/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pvB1NdW/20240926-014700.png" group-title="SPORTS CHANNEL ",STAR SPORTS SELECT 1 HD 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL ",STAR SPORTS 2 HD
+http://117.102.16.2:34567/play/a08t/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL ",STAR SPORTS 3 HD
+http://117.102.16.2:34567/play/a091/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pvB1NdW/20240926-014700.png" group-title="SPORTS CHANNEL ",STAR SPORTS SELECT 1 HD 
+http://117.102.16.2:34567/play/a088/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M6dQ9LW/20240926-014559.png" group-title="SPORTS CHANNEL ",STAR SPORTS SELECT 2 HD 
 http://103.84.57.155:8000/play/a09z/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL ",STAR SPORTS SELECTE 3 HD
+http://117.102.16.2:34567/play/a091/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SPORTS CHANNEL ", SONY SPORTS 1 HD 
-https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=SonyTen1
+http://117.102.16.2:34567/play/a08u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="SPORTS CHANNEL ",SONY SPORTS 2 HD 
-https://www.bdixiptvhub.xyz/nparvez//hybrid/master.m3u8?id=SonyTen2
+http://117.102.16.2:34567/play/a08a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="SPORTS CHANNEL ",SONY SPORTS 3 HD
+http://117.102.16.2:34567/play/a090/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="SPORTS CHANNEL ",SONY SPORTS 5 HD
+http://117.102.16.2:34567/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTxpmwx/20240928-144350.png" group-title="SPORTS CHANNEL ",SPORTS HD 
 
@@ -99,12 +111,11 @@ http://103.191.241.10/bein1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL ",BEIN SPORTS 2
 http://103.191.241.10/bein2/index.fmp4.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL ",BEIN SPORTS 3 HD
 http://103.191.241.10/bein3/index.fmp4.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS CHANNEL ",SPORTS 18 HD
+http://117.102.16.2:34567/play/a093/index.m3u8
 
 
 
