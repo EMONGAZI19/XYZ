@@ -39,14 +39,14 @@ http://117.102.16.2:34567/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="SPORTS CHANNEL ",SONY SPORTS 5 HD
 http://117.102.16.2:34567/play/a08v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTxpmwx/20240928-144350.png" group-title="SPORTS CHANNEL ",SPORTS HD 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HTxpmwx/20240928-144350.png" group-title="SPORTS CHANNEL ",PTV SPORTS HD 
+https://www.diplomazonebd.com/cors?url=http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pxtmbfq/20240928-145543.png" group-title="SPORTS CHANNEL ",WILLOW 
-
+https://www.bdixiptvhub.xyz/proxymity/XTRAA/m3u8.php/willowusa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8xtPZd1/20240928-145854.png" group-title="SPORTS CHANNEL ",WILLOW XTRA 
-
+https://www.bdixiptvhub.xyz/proxymity/XTRAA/m3u8.php/willowextra.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5BrC89V/20240928-144954.png" group-title="SPORTS CHANNEL ",TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
@@ -58,19 +58,19 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DwYb6By/20240928-144126.png" group-title="SPORTS CHANNEL ",LALIGA
-
+https://www.bdixiptvhub.xyz/proxymity/XTRAA/m3u8.php/laligauk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G0ZGBQY/20240928-193537.png" group-title="SPORTS CHANNEL ",SKY SPORTS CRICKET 
-
+https://bdiptv24.com/sports/m3u8.php/skyscric.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tqkMRr5/20240928-193608.png" group-title="SPORTS CHANNEL ",SKY SPORTS FOOTBALL 
-
+https://www.bdixiptvhub.xyz/proxymity/XTRAA/m3u8.php/skysfott.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z6WJZtg/20240928-194156.png" group-title="SPORTS CHANNEL ",SKY SPORTS PREMIER LEAGUE 
-
+https://www.bdixiptvhub.xyz/proxymity/XTRAA/m3u8.php/skysprem.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PcD7qP0/20240928-193637.png" group-title="SPORTS CHANNEL ",SKY SPORTS MAIN EVENT 
-
+https://www.bdixiptvhub.xyz/proxymity/XTRAA/m3u8.php/skysme.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4d3q3Kx/20240928-143501.png" group-title="SPORTS CHANNEL ",EUROSPORT 1
 
